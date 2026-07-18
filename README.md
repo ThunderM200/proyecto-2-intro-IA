@@ -76,8 +76,6 @@ El análisis de la matriz de confusión muestra un desempeño relativamente homo
 
 ## Conclusiones
 
-*(Completar en base a los resultados obtenidos, discutiendo: efectividad del transfer learning para este dominio, impacto de la regularización aplicada, limitaciones del enfoque y posibles mejoras — p. ej. usar ventanas más largas, probar otros backbones, o combinar features de audio "clásicas" como MFCCs.)*
-
 Finalmente, el enfoque presenta varias limitaciones. En primer lugar, **GTZAN** es un conjunto de datos relativamente pequeño para entrenar modelos de deeep learning, por lo que la capacidad de generalización es limitada. 
 
 Además, trabajar con segmentos de **3 segundos** implica perder parte significativa del contexto musical de la canción, como la estructura completa o la evolución temporal de sus patrones rítmicos y armónicos que se hubieran convertido a espectrograma. 
