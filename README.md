@@ -93,7 +93,7 @@ Referencia: Sturm, B. L. (2013). The GTZAN dataset: Its contents, its faults, th
 ├── environment.yml
 ├── Codigo_Proyecto_Arnaldo_Gonzalez_Martin_Sandoval.ipynb   # notebook principal (EDA -> modelo -> resultados)
 ├── data/                                    # dataset GTZAN 
-└── spectrograms/                            # espectrogramas cacheados (generados por el notebook, no versionado)
+└── spectrograms/                            # espectrogramas cacheados 
 ```
 
 ## Cómo correrlo
